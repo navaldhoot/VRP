@@ -163,10 +163,7 @@ else{
         
         
         
-        
-        //Tabu Parameter
-        int TABU_Horizon = 10;
-
+      
         //Initialise
         //Create Random Customers
         Node[] Nodes = new Node[NoOfCustomers + 1];
@@ -310,7 +307,6 @@ class Solution
     Vehicle[] Vehicles;
     double Cost;
 
-    //Tabu Variables
     public Vehicle[] VehiclesForBestSolution;
     double BestSolutionCost;
 
