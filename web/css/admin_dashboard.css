@@ -1,0 +1,33 @@
+body{
+	font-family:'Lato'!important;
+	
+}
+body p{
+	text-align:center;
+}
+
+
+.container-fluid{
+	padding:0px!important;
+}
+
+/*.registration{
+	background:url(../images/register_back.jpg);
+	background-size:cover;
+}*/
+
+.about-us {
+	text-align:center;
+	padding:50px;
+}
+.about-us .heading{
+	color:red;
+	font-size:33px;
+}
+
+
+.about-us .text{
+	color:black;
+	font-size:20px;
+	padding-top:20px;
+}

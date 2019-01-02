@@ -1,0 +1,117 @@
+body{
+	font-family:'Lato'!important;
+	
+}
+body p{
+	text-align:center;
+}
+
+
+.container-fluid{
+	padding:0px!important;
+}
+
+/*.registration{
+	background:url(../images/register_back.jpg);
+	background-size:cover;
+}*/
+.reghead{
+	color:black;
+	font-size:40px;
+	font-weight:900;
+	text-align:center;
+}
+
+.regsubhead{
+	color:black;
+	font-size:30px;
+	text-align:center;
+	font-weight:400;
+	
+}
+.name input {
+	width:200px;
+	
+}
+form p{
+	font-size:25px;
+	font-weight:100;
+	color:black;
+	
+}
+
+.sub{
+	border:none;
+	background:#ff4343;
+	color:black;
+	padding:10px;
+	text-align:center;
+	font-size:25px;
+	font-weight:400;
+	margin:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*************FORM**************/
+.student-head	p{
+			text-align:center;
+			font-size:25px;
+			color:#b91560;
+			font-weight:600;
+			
+		
+		}
+		.student-head{
+			margin-top:50px!important;
+			margin:20px 0px;
+		}
+		
+		table{
+			margin-bottom:70px;
+		}
+		tr,td {
+				width:400px;
+				padding:20px 0px;
+		}
+		
+		input[type=text],input[type=email],select,input[type=password],input[type=date],input[type=number] {
+				width: 100%;
+				font-size:18px;
+				padding: 12px 20px;
+				margin: 8px 0;
+				
+				box-sizing: border-box;
+				border: 0;
+				outline: 0;
+				background: transparent;
+				border-bottom: 1px solid black;
+			}
+		input[type=submit],input[type=button]{
+			padding:10px;	
+			
+			background:#b91560;
+			border:1px solid;
+			font-size:23px;
+			margin:0% 75%;
+		}
+		.move-text{
+			width:100%;
+			font-size:18px;
+			margin:0% 60%;
+		}
+		.form_head{
+			font-size:23px;
+			color:black;
+			font-style:bold;
+			font-weight:500;
+		}

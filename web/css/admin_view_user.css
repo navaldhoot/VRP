@@ -1,0 +1,89 @@
+body{
+	font-family:'Lato'!important;
+	
+}
+body p{
+	text-align:center;
+}
+
+
+.container-fluid{
+	padding:0px!important;
+}
+
+/*.registration{
+	background:url(../images/register_back.jpg);
+	background-size:cover;
+}*/
+
+	.admin-head	p{
+			text-align:center;
+			font-size:25px;
+			color:#b91560;
+			font-weight:600;
+			
+		
+		}
+		.admin-head{
+			margin-top:50px!important;
+			margin:20px 0px;
+		}
+		
+		table{
+			border:1px solid black;
+		margin-bottom:70px;
+		}
+		tr,td {
+			border:1px solid black;
+				width:auto;
+				padding:20px 20px!important;
+		}
+		
+		input[type=text],input[type=email],input[type=password] {
+				width: 100%;
+				font-size:18px;
+				padding: 12px 20px;
+				margin: 8px 0;
+				
+				box-sizing: border-box;
+				border: 0;
+				outline: 0;
+				background: transparent;
+				border-bottom: 1px solid black;
+			}
+		input[type=submit],input[type=button]{
+			padding:10px;	
+			
+			background:#5abd56;
+			border:1px solid;
+			font-size:23px;
+			margin:0% 40%;
+		}
+		.move-text{
+			
+			font-size:18px;
+			margin:0% 0% 0% 25%;
+		}
+	.form_head,th{
+			font-size:23px;
+			color:black;
+			font-style:bold;
+			font-weight:700;
+			padding:20px 20px;
+			text-align:center;
+		}
+		td{
+			font-size:20px;
+			color:black;
+			
+			
+		}
+		.profile{
+			font-size:20px;
+			
+		}
+		
+		
+		tr{
+			text-align:center;
+		}
